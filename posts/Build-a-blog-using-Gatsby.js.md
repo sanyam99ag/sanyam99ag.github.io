@@ -36,7 +36,8 @@ Then, create your new blog:
 ```
 gatsby new my-blog https://github.com/gatsbyjs/gatsby-starter-blog
 ```
-After a few seconds, you will see something like this in your terminal. ![output](../src/images/output-1.png)
+After a few seconds, you will see something like this in your terminal. 
+![output](../src/images/output-1.png)
 Now, Change the directory to the site folder:
 ```
 cd my-new-blog
@@ -45,7 +46,8 @@ Startup the Gatsby Development Server using `gatsby` command:
 ```
 gatsby develop
 ```
-After a few seconds, you will see something like this in your terminal.UmerMIB ![output](../src/images/output-2.png)
+After a few seconds, you will see something like this in your terminal.UmerMIB 
+![output](../src/images/output-2.png)
 
 Keep your development server running and visit [localhost:8000](https://localhost:8000) in your default browser to access your newly created Gatsby Blog.
 
